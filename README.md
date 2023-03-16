@@ -12,9 +12,14 @@ The test script performs the following testting the login functionality in youtu
 
 # C. Open the video that display in the third result of search and like it.
 
-First of all, clone the repo
-Npm install in the root of project directory
-To open the file, run: npx open cypress
-Configure the e2e testing
-Choose electron browser to run the test
-To run the report, run this in the command line: cypress run --reporter mochawesome
+->  First of all, clone the repo
+
+->  Npm install in the root of project directory
+
+->  To open the file, run: npx open cypress
+
+->  Configure the e2e testing
+
+->  Choose electron browser to run the test
+
+->  To run the report, run this in the command line: cypress run --reporter mochawesome
